@@ -10,7 +10,7 @@ This project uses [Poetry](https://python-poetry.org/) for dependency management
 
 #### Poetry Setup
 
-Assuming you have pip installed, run the following in your terminal
+Assuming you have pip installed, run the following in your terminal:
 
 ```
 pip install poetry
@@ -19,7 +19,7 @@ After downloading the repository you should see a lock and toml file:
 
 ![alt text](https://github.com/amlnewlands/Understanding-the-in-situ-Solar-Wind-Properties/blob/main/images/poetryfiles.PNG?raw=true)
 
-The lock file is what dictates to poetry the dependency versions all users should adhere to. Toml lists the dependencies and versions for each. With these files confirmed in your repository download run the following in your terminal:
+The lock file is what dictates to poetry the dependency versions all users should adhere to. Toml lists the dependencies and versions for each. With these files confirmed in your repository download and run the following in your terminal:
 
 ```
 poetry install
