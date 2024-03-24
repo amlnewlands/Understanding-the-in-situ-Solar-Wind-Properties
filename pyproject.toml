@@ -11,6 +11,8 @@ pandas = "^2.2.1"
 spacey = "^0.1.1"
 scikit-learn = "^1.4.1.post1"
 ipykernel = "^6.29.3"
+tables = "^3.9.2"
+h5py = "^3.10.0"
 
 
 [build-system]
