@@ -2,3 +2,9 @@ assets/
 
 #test file originally attempting to download data. 
 ACElvl_data_clean_test.ipynb
+
+#test clusters and feature importance
+#ACE Models_BM_Test.ipynb
+
+ACE Mission Cleaned.csv
+
