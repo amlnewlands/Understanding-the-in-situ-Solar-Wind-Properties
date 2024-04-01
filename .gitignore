@@ -1,4 +1,9 @@
-assets/
+ACE_final.txt
+ACE_Level2_Hourly (1)
+ACElvl2.txt
+ASCd7VrKf.zip
+swepam_data_1day_2330.hdf
+swepam_data_1hr.hdf
 
 #test file originally attempting to download data. 
 ACElvl_data_clean_test.ipynb
@@ -6,5 +11,6 @@ ACElvl_data_clean_test.ipynb
 #test clusters and feature importance
 #ACE Models_BM_Test.ipynb
 
-ACE Mission Cleaned.csv
+tests/ACE Mission Cleaned.csv
+
 
