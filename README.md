@@ -25,12 +25,7 @@ The lock file is what dictates to poetry the dependency versions all users shoul
 poetry install
 ```
 
-Poetry install will create a virtual environment for the workspace and install all dependencies according to the toml file. The environment will be stored outside of the python project (directory). While in the project directory you can run the following command to activate the dependency installed poetry environment as your kernel:
-
-```
-poetry shell
-```
-After the shell command you should be able to select the poetry environment as a kernel in a jupyter notebook. 
+Poetry install will create a virtual environment for the workspace and install all dependencies according to the toml file. The environment will be stored outside of the python project (directory).
 
 In order to add modules the team utilized the following command:
 
