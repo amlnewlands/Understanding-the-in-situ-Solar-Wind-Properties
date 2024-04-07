@@ -21,7 +21,7 @@ After downloading the repository you should see a lock and toml file:
 
 
 
-PLEASE NOTE: This poetry environment will require Python ver. 3.11 or above. 
+<b>PLEASE NOTE: This poetry environment will require Python ver. 3.11 or above. </b>
 
 While in the project directory you can run the following command to activate the dependency installed poetry environment as your kernel. This will set poetry to install the environment in a new .venv folder inside of the python project (directory). :
 ```
