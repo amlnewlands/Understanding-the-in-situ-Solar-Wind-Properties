@@ -19,18 +19,23 @@ After downloading the repository you should see a lock and toml file:
 
 ![alt text](https://github.com/amlnewlands/Understanding-the-in-situ-Solar-Wind-Properties/blob/main/images/poetryfiles.PNG?raw=true)
 
+
+
+
+
+While in the project directory you can run the following command to activate the dependency installed poetry environment as your kernel. This will set poetry to install the environment in a new .venv folder inside of the python project (directory). :
+```
+poetry config virtualenvs.in-project true
+```
 The lock file is what dictates to poetry the dependency versions all users should adhere to. Toml lists the dependencies and versions for each. With these files confirmed in your repository download and run the following in your terminal:
 
 ```
 poetry install
 ```
 
-Poetry install will create a virtual environment for the workspace and install all dependencies according to the toml file. The environment will be stored outside of the python project (directory). While in the project directory you can run the following command to activate the dependency installed poetry environment as your kernel:
+Poetry install will create a virtual environment for the workspace and install all dependencies according to the toml file. 
 
-```
-poetry shell
-```
-After the shell command you should be able to select the poetry environment as a kernel in a jupyter notebook. 
+
 
 In order to add modules the team utilized the following command:
 
