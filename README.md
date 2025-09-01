@@ -1,7 +1,7 @@
 
 # Understanding the in-situ Solar Wind Properties with Machine Learning
 
-The project objective is to expand understanding of solar wind properties by incoporating machine learning tools to in-situ observations. The complexity and density of solar wind data makes pattern recognition difficult and puts potential applications of such data in question. Our goal is to find patterns within the in-situ observations that can forecast Heliospheric Current Sheet (HCS) indexes.   
+The project objective is to expand understanding of solar wind properties by incorporating machine learning tools to in-situ observations. The complexity and density of solar wind data makes pattern recognition difficult and puts potential applications of such data in question. Our goal is to find patterns within the in-situ observations that can forecast Heliospheric Current Sheet (HCS) indexes.   
 
 
 ## Environment
